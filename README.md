@@ -1,0 +1,1 @@
+The project involves generating titles based on paragraphs, which is closely related to creating and refining prompts for AI models that focus on text generation. It demonstrates your ability to work with text summarization, an essential part of prompt engineering.
