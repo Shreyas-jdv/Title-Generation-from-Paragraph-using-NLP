@@ -18,7 +18,7 @@ text = soup.get_text(strip = True)
 tokens = [t for t in text.split()]
 
 
-sr= stopwords.words('english')
+sr = stopwords.words('english')
 clean_tokens = tokens[:]
 for token in tokens:
     if token in stopwords.words('english'):
